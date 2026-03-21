@@ -1,0 +1,25 @@
+Questão 3
+
+1 - Ao executar o código ele mostra a palavra Número: mas não aparece mais nada além disso e logo finaliza o programa
+
+Questão 4
+
+1 - Não
+
+2 - O erro está em não atribuir valor a idade
+
+Questão 10
+
+Sim e possível com uma variável
+
+Questão 11
+
+o ponto a virgula e as aspas respectivamente
+
+Questão 12
+
+nomeCompleto
+
+mediaFinal
+
+valorTotalCompra
